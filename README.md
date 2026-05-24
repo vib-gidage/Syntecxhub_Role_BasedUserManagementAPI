@@ -2,7 +2,7 @@
 
 A secure Role-Based User Management REST API built using Spring Boot, Spring Security, JWT Authentication, and MySQL. This project demonstrates authentication, authorization, role-based access control, BCrypt password encryption, audit logging, and RESTful API development.
 
-#✨ Features
+# ✨Features
 
 - User Registration & Login
 - JWT Authentication
